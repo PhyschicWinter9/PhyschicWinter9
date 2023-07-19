@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Meloned App](https://github.com/PhyschicWinter9/MelonedApp)  
   
 
-- 🌱 I’m currently learning NextJS 3 , NodeJS
+- 🌱 I’m currently learning NextJS , NodeJS
 
 
 - 🤝 I’m looking for help with NodeJS & DiscordJS
